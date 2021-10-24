@@ -1,0 +1,382 @@
+@charset "utf-8";
+*{
+	box-sizing: border-box;
+	letter-spacing: 2px;
+}
+
+html {
+	background-color: #414141;
+	color: #251E1C;
+	font-family: "Hiragino Kaku Gothic ProN", Meiryo,Georgia;
+	margin: 0;
+	padding:0;
+}
+
+body {
+	font-size: 14px;
+	margin: 0;
+	padding: 0;
+}
+
+a {
+text-decoration: none;
+/*color: #251E1C;*/
+}
+
+a:hover {
+	color: #60aa91;
+}
+
+.eu {
+	font-family: Georgia;
+}
+
+.jp {
+	font-family: 平成明朝;
+}
+
+.mincho {
+	font-family: "ヒラギノ明朝 ProN W6", "HiraMinProN-W6", "HG明朝E", "ＭＳ Ｐ明朝", "MS PMincho", "MS 明朝";
+}
+
+img {
+	vertical-align: bottom;
+}
+
+/* HEADER */
+
+.header {
+	text-align: center;
+	font-family: Georgia;
+}
+
+
+.header {
+position:fixed;
+width:100%;
+height:172px;
+z-index:999;
+background-color: #414141;
+top:0;
+}
+
+
+
+
+.header .logoArea {
+	display: block;
+	margin: 35px 0;
+}
+
+.header .logoArea p {
+	text-align: center;
+}
+
+.header .nav {
+	width: 970px;
+	margin: auto;
+}
+
+.header .nav li {
+	float: left;
+	margin:0 26px;
+	height: 42px;
+	cursor: pointer;
+}
+
+.header .nav li a {
+	width: 100%;
+	display: block;
+}
+
+.header .nav li a span {
+	font-size: 11px;
+	padding: 0 0 2px;
+	display: block;
+	margin-top: 10px;
+}
+
+.header .nav li:hover {
+	border-bottom:  3px solid #8d8d8f;
+}
+ 
+.header .nav li .childMenu {
+	display: none;
+	position: absolute;
+  	background-color: #585859;
+	z-index: 100;
+	margin-top: 6px;
+	margin-left: -54px;
+}
+.header .nav li:hover .childMenu{
+	display: block;
+}
+
+.header .nav li .childMenu ul {
+	text-align: left;
+	width: 260px;
+}
+
+.header .nav li .childMenu li {
+	float: none;
+	display: block;
+	margin: 5px;
+	height: auto;
+	font-family: "Gill Sans";
+}
+
+
+.header .nav li .childMenu li:before{
+	content: "";
+	background: url("../images/common/arrow.png") no-repeat;
+	background-size: 5px 7px;
+	width: 5px;
+	height: 7px;
+	margin: 4px 5px 0 0;
+	float: left;
+	color: #fff;
+}
+
+
+.header .nav li .childMenu li a {
+	color: #fff;
+	padding:0;
+	margin:0;
+	font-size: 12px;
+}
+
+.header .nav li .childMenu li a:hover {
+	color: #60aa91;
+}
+
+.header .nav li .childMenu li:hover {
+	border-bottom: none;
+}
+
+.header.fixed {
+	position: fixed;
+	width: 100%;
+	background-color: #414141;
+	top: -20px;
+	padding-bottom: 10px;
+	z-index: 990;
+}
+
+/* CONTAINER */
+.container {
+	width: 970px;
+	margin: 20px auto;
+	position: relative;
+	padding-top:165px!important;
+}
+
+.pathArea {
+	background-color: #333;
+	padding: 0 35px;
+}
+
+.pathArea ol li {
+	line-height: 46px;
+	display: inline-block;
+}
+
+.pathArea ol li a {
+	margin: 0 8px 0 0;
+	color: #a1a09f;;
+	float: left;
+}
+
+.pathArea ol li a:after {
+	content: "▶";
+	margin-left: 8px;
+}
+
+.pathArea ol li.ended a:after {
+	content: "";
+}
+
+.contentsWhole {
+	background-color: #fff;
+	padding: 0 35px;
+}
+
+.h2 {
+	width: 100%;
+	border-bottom: 1px solid #ededed;
+}
+
+.h2 h2 {
+	line-height: 100px;
+	text-align: center;
+	padding: 30px 0;
+}
+
+.contentsInner {
+	padding: 25px 0 55px;
+}
+
+.contentsWhole .contentsInner h3,
+.contentsWhole .contentsInner h4 {
+	font-family: "ヒラギノ明朝 ProN W6", "HiraMinProN-W6", "HG明朝E", "ＭＳ Ｐ明朝", "MS PMincho", "MS 明朝", serif;
+}
+
+
+#side_icon {
+  position: fixed;
+  top: 172px;
+  right: 0;
+}
+
+.side_icon_fb {
+  z-index: 10;
+  }
+
+
+.side_icon_youtube {
+  margin: 10px 0 0 0;
+  }
+  
+/* FOOTER */
+.footer {
+	color: #fff;
+	font-size: 11px;
+	text-align: center;
+	width: 960px;
+	margin: auto;
+	position: relative;
+}
+
+/*.footer .ftLogoText,
+.footer .treatText {
+	letter-spacing: 1px;
+}*/
+
+.footer .linkColorWorks {
+	width: 562px;
+	margin: 20px auto 0;
+}
+
+.footer .linkColorWorks li {
+	float: left;
+}
+
+.footer .linkColorWorks li.official {
+	margin-right: 10px;
+}
+
+/*.footer .linkColorWorks li a {
+	text-decoration: none;
+	color: #fff;
+}*/
+
+.footer .copyright {
+	margin: 100px 0 25px;
+}
+
+
+.acc {
+	position: absolute;
+}
+
+#footer-accordion {
+	position: relative;
+	float: left;
+	text-align: left;
+}
+
+#footer-accordion .panel {
+	float: left;
+	display: block;
+	width: 85px;
+	margin-right: 20px;
+}
+
+.footer h3 {
+	line-height: 2.5em;
+  	display: inline-block;
+  	padding-right: 20px;
+  	margin: 0;
+  	position: relative;
+  	color: white;
+  	cursor: pointer;
+  	font-size: 11px;
+}
+
+.footer h3.nonArrow:after {
+	content: ""
+}
+
+.footer h3:after {
+  	content: "▲";
+  	color: white;
+  	display: block;
+  	right: 0;
+  	top: 0;
+  	position: absolute;
+}
+
+.footer h3.collapsed:after {
+  content: "▼";
+  color: white;
+  display: block;
+  right: 0;
+  top: 0;
+  position: absolute;
+}
+
+.footer h3 a {
+	color: #fff;
+}
+
+
+.footer .links ul {
+	position: absolute;
+  	margin-top: 0;
+  	text-transform: uppercase;
+  	font-family: "Gill Sans MT",Arial,sans-serif;
+  	background-color: #585859;
+  	font-size: 11px;
+}
+
+.collapse {
+  display: none;
+}
+
+.footer .links ul {
+  padding-left: 1.5em;
+}
+
+.footer .links ul li {
+  position: relative;
+  line-height: 2em;
+  padding: 0 10px 0 3px;
+  	font-size: 11px;
+}
+
+.footer .links ul li:before, ol li:before {
+  content: "";
+  background-image: url("../images/common/arrow.png");
+  background-size: 5px 7px;
+  width: 5px;
+  height: 7px;
+  left: -10px;
+  top: 6px;
+  position: absolute;
+}
+
+.footer .links ul li a {
+	color: #fff;
+  	font-size: 11px;
+}
+
+.footer .links ul li a:hover {
+	color: #60aa91;
+}
+
+
+.footer .scrollTop {
+	position: absolute;
+	width: 75px;
+	height: 41px;
+	left: 880px;
+}

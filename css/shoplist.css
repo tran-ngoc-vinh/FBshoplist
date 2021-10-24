@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+#shoplist .todou_huken {
+   margin-bottom: 20px;
+   background-color: #333333;
+   color:#ffffff;
+   padding:3px;
+}
+
+#shoplist h3 {
+   font-family: sans-serif ;
+}
+
+#shoplist ul {
+	margin-bottom: 20px;
+}
+
+#shoplist ul li:first-child {
+	font-size: 16px;
+	margin-bottom:5px;
+}
+
+#shoplist .section {
+	display: inline;
+}
+#shoplist .section ul li{
+	display: inline;
+	border: 1px solid #000;
+    padding: 3px;
+	background-color: #000;
+	color:#ffffff;
+	text-align: center;
+}
+#shoplist .section ul .section_1{
+	background-color: #437464;
+}
+#shoplist ul li h4 a{
+	color: #000;
+}
+#shoplist ul li h4 a:hover{
+	color: #60aa91;
+}
