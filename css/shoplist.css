@@ -32,10 +32,11 @@
 	text-align: center;
 }
 #shoplist .section ul .section_1{
-	background-color: #437464;
+	background-color: #427e83;
 }
 #shoplist ul li h4 a{
 	color: #000;
+	
 }
 #shoplist ul li h4 a:hover{
 	color: #60aa91;
