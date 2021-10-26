@@ -53,11 +53,10 @@
 						</p>
 				</div><br>
 				<div class="todou_huken"><h3>北海道</h3></div>
+				<div class="todou_content">
 					<div class="section">
 						<ul>
 							<li class="section_1">Holder</li>
-							<li>Brand Stockist</li>
-							<li>Brand Promoter</li>
 						</ul>
 					</div>
 						<ul>
@@ -65,17 +64,24 @@
 							<li><span class="train">インテリアショップ・注文住宅</span></li>
 							<li>〒071-1437北海道上川郡東川町 東７号 北７線</li>
 						</ul>
+				</div>
+				<div class="todou_content">
+					<div class="section">
+						<ul>
+							<li class="section_1">Holder</li>
+						</ul>
+					</div>
 						<ul>
 							<li><h4><a href="https://futaba-toryo.co.jp/" target="_blank" rel="noopener noreferrer">株式会社フタバ</a></h4></li>
 							<li><span class="train">塗料販売店</span></li>
 							<li>〒078-8344北海道旭川市東光４条2丁目1番25号</li>
 						</ul>
+				</div>
 				<div class="todou_huken"><h3>青森県</h3></div>
+				<div class="todou_content">
 					<div class="section">
-						<ul>
-							<li>Holder</li>
+						<ul>		
 							<li class="section_1">Brand Stockist</li>
-							<li>Brand Promoter</li>
 						</ul>
 					</div>
 						<ul>
@@ -89,12 +95,13 @@
 								</div>
 							</li>
 						</ul>
+				</div>
 				<div class="todou_huken"><h3>秋田県</h3></div>
+				<div class="todou_content">
 					<div class="section">
 						<ul>
 							<li class="section_1">Holder</li>
-							<li>Brand Stockist</li>
-							<li>Brand Promoter</li>
+
 						</ul>
 					</div>
 						<ul>
@@ -102,12 +109,12 @@
 							<li><span class="train">インテリアコーディネート</span></li>
 							<li>〒010-0011 秋田県秋田市南通亀の町４－１５ YAMAKIU MINAMI SOUKO 1F</li>
 						</ul>
+				</div>
 				<div class="todou_huken"><h3>福島県</h3></div>
+				<div class="todou_content">
 					<div class="section">
 						<ul>
 							<li class="section_1">Holder</li>
-							<li>Brand Stockist</li>
-							<li>Brand Promoter</li>
 						</ul>
 					</div>
 						<ul>
@@ -115,7 +122,9 @@
 							<li><span class="train">工務店・リフォーム</span></li>
 							<li>〒960-8252 福島県福島市御山字中川原８４－１</li>
 						</ul>
+				</div>
 				<div class="todou_huken"><h3>茨城県</h3></div>
+				<div class="todou_content">
 					<div class="section">
 						<ul>
 							<li class="section_1">Holder</li>
@@ -128,8 +137,9 @@
 							<li><span class="train">塗料販売店</span></li>
 							<li>〒311-4165 茨城県水戸市木葉下町富士山292-42</li>
 						</ul>
-
+				</div>
 				<div class="todou_huken"><h3>栃木県</h3></div>
+				<div class="todou_content">
 					<div class="section">
 						<ul>
 							<li class="section_1">Holder</li>
@@ -142,8 +152,9 @@
 							<li><span class="train">工務店</span></li>
 							<li>〒321-0971 栃木県宇都宮市中央2-1-5 101</li>
 						</ul>
-						
+				</div>	
 				<div class="todou_huken"><h3>群馬県</h3></div>
+				<div class="todou_content">
 					<div class="section">
 						<ul>
 							<li class="section_1">Holder</li>
@@ -156,12 +167,23 @@
 							<li><span class="train">インテリア総合商社</span></li>
 							<li>〒371-0016 群馬県前橋市城東町５－６５７－１８</li>
 						</ul>
+				</div>
+				<div class="todou_content">
+					<div class="section">
+						<ul>
+							<li class="section_1">Holder</li>
+							<li>Brand Stockist</li>
+							<li>Brand Promoter</li>
+						</ul>
+					</div>
 						<ul>
 							<li><h4><a href="https://www.meisterhouse.co.jp/" target="_blank" rel="noopener noreferrer">マイスターハウス株式会社</a></h4></li>
 							<li><span class="train">注文住宅</span></li>
 							<li>〒370-0851 群馬県高崎市上中居長337-2</li>
 						</ul>
+				</div>
 				<div class="todou_huken"><h3>埼玉県</h3></div>
+				<div class="todou_content">
 					<div class="section">
 						<ul>
 							<li>Holder</li>
@@ -174,7 +196,9 @@
 							<li><span class="train">注文住宅</span></li>
 							<li>〒330-0802 埼玉県さいたま市大宮区宮町3丁目25</li>
 						</ul>
+				</div>
 				<div class="todou_huken"><h3>千葉県</h3></div>
+				<div class="todou_content">
 					<div class="section">
 						<ul>
 							<li class="section_1">Holder</li>
@@ -187,7 +211,9 @@
 							<li><span class="train">注文住宅</span></li>
 							<li>〒270-1516 千葉県印旛郡栄町安食２４２１－８７</li>
 						</ul>
+				</div>
 				<div class="todou_huken"><h3>東京都</h3></div>
+				<div class="todou_content">
 					<div class="section">
 						<ul>
 							<li class="section_1">Holder</li>
@@ -200,37 +226,93 @@
 							<li><span class="train">インテリアショップ</span></li>
 							<li>〒158-0094 東京都世田谷区玉川3-12-11 B1F</li>
 						</ul>
+				</div>
+				<div class="todou_content">
+					<div class="section">
+						<ul>
+							<li class="section_1">Holder</li>
+							<li>Brand Stockist</li>
+							<li>Brand Promoter</li>
+						</ul>
+					</div>
 						<ul>
 							<li><h4><a href="https://ikokochi.net/" target="_blank" rel="noopener noreferrer">イココチ</a></h4></li>
 							<li><span class="train">カフェ・内装業</span></li>
 							<li>〒166-0012 東京都杉並区和田３－５７－５ １Ｆ</li>
 						</ul>
+ 					</div>
+					 <div class="todou_content">
+					<div class="section">
+						<ul>
+							<li class="section_1">Holder</li>
+							<li>Brand Stockist</li>
+							<li>Brand Promoter</li>
+						</ul>
+					</div>
 						<ul>
 							<li><h4><a href="https://www.cotsworld.com/" target="_blank" rel="noopener noreferrer">株式会社コッツワールド</a></h4></li>
 							<li><span class="train">注文住宅</span></li>
 							<li>〒154-0001 東京都世田谷区池尻2-7-10 水内ﾋﾞﾙ</li>
 						</ul>
+					</div>
+					<div class="todou_content">
+					<div class="section">
+						<ul>
+							<li class="section_1">Holder</li>
+							<li>Brand Stockist</li>
+							<li>Brand Promoter</li>
+						</ul>
+					</div>
 						<ul>
 							<li><h4><a href="http://www.theatres-remodeling.co.jp/" target="_blank" rel="noopener noreferrer">東京テアトルリモデリング株式会社</a></h4></li>
 							<li><span class="train">設計・施工</span></li>
 							<li>〒160-0022 東京都新宿区新宿1-1-8御苑ﾃｱﾄﾙﾋﾞﾙ2F</li>
 						</ul>
+					</div>
+					<div class="todou_content">
+					<div class="section">
+						<ul>
+							<li class="section_1">Holder</li>
+							<li>Brand Stockist</li>
+							<li>Brand Promoter</li>
+						</ul>
+					</div>
 						<ul>
 							<li><h4><a href="https://www.euro-j.com/" target="_blank" rel="noopener noreferrer">株式会社ユーロＪスペース</a></h4></li>
 							<li><span class="train">注文住宅</span></li>
 							<li>〒150-0012 東京都世田谷区奥沢5-7-10·1F</li>
 						</ul>
+					</div>
+					<div class="todou_content">
+					<div class="section">
+						<ul>
+							<li class="section_1">Holder</li>
+							<li>Brand Stockist</li>
+							<li>Brand Promoter</li>
+						</ul>
+					</div>
 						<ul>
 							<li><h4><a href="https://maitland-smith.jp/" target="_blank" rel="noopener noreferrer">西村貿易株式会社</a></h4></li>
 							<li><span class="train">インテリアショップ</span></li>
 							<li>〒108-0071 東京都港区白金台3-2-10白金台ﾋﾞﾙ1F</li>
 						</ul>
+					</div>
+					<div class="todou_content">
+					<div class="section">
+						<ul>
+							<li class="section_1">Holder</li>
+							<li>Brand Stockist</li>
+							<li>Brand Promoter</li>
+						</ul>
+					</div>
 						<ul>
 							<li><h4><a href="http://terrace-inc.co.jp/" target="_blank" rel="noopener noreferrer">有限会社テラス</a></h4></li>
 							<li><span class="train">家具ショップ</span></li>
 							<li>〒107-0062 東京都港区青山6-1-6 ﾊﾟﾚｽ青山303号室</li>
 						</ul>
+					</div>
 				<div class="todou_huken"><h3>神奈川県</h3></div>
+				<div class="todou_content">
 					<div class="section">
 						<ul>
 							<li class="section_1">Holder</li>
@@ -243,12 +325,23 @@
 							<li><span class="train">設計・施工</span></li>
 							<li>〒248-0027 神奈川県鎌倉市笛田５－４１－４９</li>
 						</ul>
+				</div>
+				<div class="todou_content">
+					<div class="section">
+						<ul>
+							<li class="section_1">Holder</li>
+							<li>Brand Stockist</li>
+							<li>Brand Promoter</li>
+						</ul>
+					</div>
 						<ul>
 							<li><h4><a href="https://www.kamakura-uk.com/" target="_blank" rel="noopener noreferrer">鎌倉アンティークス＆ギャラリー</a></h4></li>
 							<li><span class="train">英国アンティーク専門店</span></li>
 							<li>〒247-0056 神奈川県鎌倉市大船２－１６－２湘南ファーストビル１Ｆ</li>
 						</ul>
+				</div>
 				<div class="todou_huken"><h3>新潟県</h3></div>
+				<div class="todou_content">
 					<div class="section">
 						<ul>
 							<li class="section_1">Holder</li>
@@ -261,12 +354,23 @@
 							<li><span class="train">インテリア総合商社</span></li>
 							<li>〒954-0111 新潟県見附市今町６－２８－３１</li>
 						</ul>
+				</div>
+				<div class="todou_content">
+					<div class="section">
+						<ul>
+							<li class="section_1">Holder</li>
+							<li>Brand Stockist</li>
+							<li>Brand Promoter</li>
+						</ul>
+					</div>
 						<ul>
 							<li><h4><a href="https://www.yonemoku.co.jp/" target="_blank" rel="noopener noreferrer">黒崎交商有限会社</a></h4></li>
-							<li><span class="train">黒崎交商有限会社</span></li>
+							<li><span class="train">設計</span></li>
 							<li>〒947-0101 新潟県小千谷市片貝町船橋2387-1</li>
 						</ul>
+				</div>
 				<div class="todou_huken"><h3>富山県</h3></div>
+				<div class="todou_content">
 					<div class="section">
 						<ul>
 							<li class="section_1">Holder</li>
@@ -279,17 +383,37 @@
 							<li><span class="train">注文住宅</span></li>
 							<li>〒934-0003 富山県射水市庄川本町16-3</li>
 						</ul>
+				</div>
+				<div class="todou_content">
+					<div class="section">
+						<ul>
+							<li class="section_1">Holder</li>
+							<li>Brand Stockist</li>
+							<li>Brand Promoter</li>
+						</ul>
+					</div>
 						<ul>
 							<li><h4><a href="https://www.hipsquare.org/" target="_blank" rel="noopener noreferrer">有限会社オリス</a></h4></li>
 							<li><span class="train">設計・施工・インテリアデザイン</span></li>
 							<li>〒930-0992 富山県富山市新生町9-2 ORIS</li>
 						</ul>
+					</div>
+					<div class="todou_content">
+					<div class="section">
+						<ul>
+							<li class="section_1">Holder</li>
+							<li>Brand Stockist</li>
+							<li>Brand Promoter</li>
+						</ul>
+					</div>
 						<ul>
 							<li><h4><a href="https://www.y-housing.com/" target="_blank" rel="noopener noreferrer">株式会社Y,HOUSING</a></h4></li>
 							<li><span class="train">注文住宅</span></li>
 							<li>〒930-0161 富山県富山市東老田665</li>
 						</ul>
+				</div>
 				<div class="todou_huken"><h3>石川県</h3></div>
+				<div class="todou_content">
 					<div class="section">
 						<ul>
 							<li>Holder</li>
@@ -308,7 +432,9 @@
 								</div>
 							</li>
 						</ul>
+					</div>
 				<div class="todou_huken"><h3>山梨県</h3></div>
+				<div class="todou_content">
 					<div class="section">
 						<ul>
 							<li class="section_1">Holder</li>
@@ -321,11 +447,13 @@
 							<li><span class="train">設計・施工</span></li>
 							<li>〒400-0031 山梨県甲府市丸の内1-8-9</li>
 						</ul>
+				</div>
 				<div class="todou_huken"><h3>長野県</h3></div>
+				<div class="todou_content">
 					<div class="section">
 						<ul>
-							<li>Holder</li>
-							<li class="section_1">Brand Stockist</li>
+							<li class="section_1">Holder</li>
+							<li>Brand Stockist</li>
 							<li>Brand Promoter</li>
 						</ul>
 					</div>
@@ -334,16 +462,27 @@
 							<li><span class="train">塗料販売店</span></li>
 							<li>〒399-4431 長野県伊那市西春上島２４３１</li>
 						</ul>
+					</div>
+				<div class="todou_content">
+					<div class="section">
+						<ul>
+							<li  class="section_1">Holder</li>
+							<li>Brand Stockist</li>
+							<li>Brand Promoter</li>
+						</ul>
+					</div>
 						<ul>
 							<li><h4><a href="https://sunagadesign.com/" target="_blank" rel="noopener noreferrer">SUNAGA DESIGN</a></h4></li>
 							<li><span class="train">設計</span></li>
 							<li>〒389-0111 長野県北佐久郡軽井沢町長倉957-63</li>
 						</ul>
+				</div>
 				<div class="todou_huken"><h3>静岡県</h3></div>
+				<div class="todou_content">
 					<div class="section">
 						<ul>
-							<li>Holder</li>
-							<li class="section_1">Brand Stockist</li>
+							<li class="section_1">Holder</li>
+							<li>Brand Stockist</li>
 							<li>Brand Promoter</li>
 						</ul>
 					</div>
@@ -352,16 +491,27 @@
 							<li><span class="train">注文住宅・雑貨販売</span></li>
 							<li>〒410-0312 静岡県沼津市市原１４１４－１第２長沢ビル１０１</li>
 						</ul>
-						<ul>
-							<li><h4><a href="http://10taku-plus.jp/" target="_blank" rel="noopener noreferrer">10TAKU＋</a></h4></li>
-							<li><span class="train">工務店</span></li>
-							<li>〒416-0909 静岡県富士宮市松岡松岡1805１８０５－１６</li>
-						</ul>
-				<div class="todou_huken"><h3>愛知県</h3></div>
+				</div>
+				<div class="todou_content">
 					<div class="section">
 						<ul>
-							<li>Holder</li>
-							<li class="section_1">Brand Stockist</li>
+							<li class="section_1">Holder</li>
+							<li>Brand Stockist</li>
+							<li>Brand Promoter</li>
+						</ul>
+					</div>
+						<ul>
+							<li><h4><a href="http://10taku-plus.jp/" target="_blank" rel="noopener noreferrer">10TAKU＋</a></h4></li>
+							<li><span class="train">設計・施工</span></li>
+							<li>〒416-0909 静岡県富士宮市松岡松岡1805１８０５－１６</li>
+						</ul>
+				</div>
+				<div class="todou_huken"><h3>愛知県</h3></div>
+				<div class="todou_content">
+					<div class="section">
+						<ul>
+							<li class="section_1">Holder</li>
+							<li>Brand Stockist</li>
 							<li>Brand Promoter</li>
 						</ul>
 					</div>
@@ -370,32 +520,79 @@
 							<li><span class="train">注文住宅</span></li>
 							<li>〒444-0815 愛知県岡崎市緑丘2丁目13</li>
 						</ul>
+				</div>
+				<div class="todou_content">
+					<div class="section">
+						<ul>
+							<li class="section_1">Holder</li>
+							<li>Brand Stockist</li>
+							<li>Brand Promoter</li>
+						</ul>
+					</div>
 						<ul>
 							<li><h4><a href="https://www.clasishome.jp/" target="_blank" rel="noopener noreferrer">クラシスホーム株式会社</a></h4></li>
 							<li><span class="train">注文住宅</span></li>
 							<li>〒458-0921 愛知県名古屋市緑区桶狭間清水山１３０６－１</li>
 						</ul>
+					</div>
+				<div class="todou_content">
+					<div class="section">
+						<ul>
+							<li class="section_1">Holder</li>
+							<li>Brand Stockist</li>
+							<li>Brand Promoter</li>
+						</ul>
+					</div>
 						<ul>
 							<li><h4><a href="https://heim-i.co.jp/" target="_blank" rel="noopener noreferrer">株式会社ハイム</a></h4></li>
 							<li><span class="train">壁紙卸・設計施工</span></li>
 							<li>〒466-0835 愛知県名古屋市昭和区南山町20番4</li>
 						</ul>
+				</div>
+				<div class="todou_content">
+					<div class="section">
+						<ul>
+							<li class="section_1">Holder</li>
+							<li>Brand Stockist</li>
+							<li>Brand Promoter</li>
+						</ul>
+					</div>
 						<ul>
 							<li><h4><a href="https://www.nazunadesign.com/" target="_blank" rel="noopener noreferrer">株式会社ナズナデザインオフィス 一級建築士事務所</a></h4></li>
 							<li><span class="train">設計・施工</span></li>
 							<li>〒472-0015 愛知県知立市谷田町本林1-11-5-501</li>
 						</ul>
+				</div>
+				<div class="todou_content">
+					<div class="section">
+						<ul>
+							<li class="section_1">Holder</li>
+							<li>Brand Stockist</li>
+							<li>Brand Promoter</li>
+						</ul>
+					</div>
 						<ul>
 							<li><h4><a href="https://instagram.com/threecons.takuma?utm_medium=copy_link" target="_blank" rel="noopener noreferrer">スリーコンズ</a></h4></li>
 							<li><span class="train">施工</span></li>
 							<li>〒458-0845 愛知県名古屋市緑区鳴海町赤塚146-1</li>
 						</ul>
+				</div>
+				<div class="todou_content">
+					<div class="section">
+						<ul>
+							<li class="section_1">Holder</li>
+							<li>Brand Stockist</li>
+							<li>Brand Promoter</li>
+						</ul>
+					</div>
 						<ul>
 							<li><h4><a href="https://www.ishihara-group.co.jp/" target="_blank" rel="noopener noreferrer">イシハラ株式会社</a></h4></li>
 							<li><span class="train">設計・施工</span></li>
 							<li>〒440-0083 愛知県豊橋市下地町字柳目28番地</li>
 						</ul>
+				</div>
 				<div class="todou_huken"><h3>三重県</h3></div>
+				<div class="todou_content">
 					<div class="section">
 						<ul>
 							<li class="section_1">Holder</li>
@@ -408,7 +605,9 @@
 							<li><span class="train">注文住宅</span></li>
 							<li>〒513-0809 三重県鈴鹿市西条４丁目８０</li>
 						</ul>
+				</div>
 				<div class="todou_huken"><h3>滋賀県</h3></div>
+				<div class="todou_content">
 					<div class="section">
 						<ul>
 							<li class="section_1">Holder</li>
@@ -421,7 +620,9 @@
 							<li><span class="train">インテリアショップ</span></li>
 							<li>〒524-0012 滋賀県守山市播磨田町3075</li>
 						</ul>
+				</div>
 				<div class="todou_huken"><h3>兵庫県</h3></div>
+				<div class="todou_content">
 					<div class="section">
 						<ul>
 							<li>Holder</li>
@@ -431,7 +632,7 @@
 					</div>
 						<ul>
 							<li><h4><a href="https://meet-source.com/co/morien/" target="_blank" rel="noopener noreferrer">株式会社モリエン</a></h4></li>
-							<li><span class="train">塗料販売・施工店</span></li>
+							<li><span class="train">塗料販売店</span></li>
 							<li>〒652-0032 兵庫県西宮市桶之池町1-4-1-102</li>
 							<li>
 								<div>
@@ -440,7 +641,9 @@
 								</div>
 							</li>
 						</ul>
+				</div>
 				<div class="todou_huken"><h3>島根県</h3></div>
+				<div class="todou_content">
 					<div class="section">
 						<ul>
 							<li class="section_1">Holder</li>
@@ -453,7 +656,9 @@
 							<li><span class="train">施工店</span></li>
 							<li>〒689-3403 島根県米子市掟江町西原 1208-4</li>
 						</ul>
+				</div>
 				<div class="todou_huken"><h3>岡山県</h3></div>
+				<div class="todou_content">
 					<div class="section">
 						<ul>
 							<li class="section_1">Holder</li>
@@ -466,17 +671,37 @@
 							
 							<li>〒700-0903 岡山県岡山市北区幸町8-13８－１３大西ビル２Ｆ</li>
 						</ul>
+				</div>
+				<div class="todou_content">
+					<div class="section">
+						<ul>
+							<li class="section_1">Holder</li>
+							<li>Brand Stockist</li>
+							<li>Brand Promoter</li>
+						</ul>
+					</div>
 						<ul>
 							<li><h4><a href="https://cosmic-g.jp/" target="_blank" rel="noopener noreferrer">株式会社コスミック・ガーデン</a></h4></li>
 							<li><span class="train">注文住宅</span></li>
 							<li>〒700-0975 岡山県岡山市北区今1丁目12-25  1F</li>
 						</ul>
+				</div>
+				<div class="todou_content">
+					<div class="section">
+						<ul>
+							<li class="section_1">Holder</li>
+							<li>Brand Stockist</li>
+							<li>Brand Promoter</li>
+						</ul>
+					</div>
 						<ul>
 							<li><h4><a href="https://www.ishihara-group.co.jp/" target="_blank" rel="noopener noreferrer">株式会社ゼスト倉敷オフィス</a></h4></li>
 							<li><span class="train">注文住宅</span></li>
 							<li>〒710-0003 岡山県倉敷市平田329-2</li>
 						</ul>
+				</div>
 				<div class="todou_huken"><h3>広島県</h3></div>
+				<div class="todou_content">
 					<div class="section">
 						<ul>
 							<li class="section_1">Holder</li>
@@ -489,7 +714,9 @@
 							<li><span class="train">塗料販売店</span></li>
 							<li>〒720-0044 広島県福山市笠岡町2-24</li>
 						</ul>
+				</div>
 				<div class="todou_huken"><h3>山口県</h3></div>
+				<div class="todou_content">
 					<div class="section">
 						<ul>
 							<li class="section_1">Holder</li>
@@ -502,7 +729,9 @@
 							<li><span class="train">インテリアショップ</span></li>
 							<li>〒755-0058 山口県宇部市松原新堀１１３８－１</li>
 						</ul>
+					</div>
 				<div class="todou_huken"><h3>愛媛県</h3></div>
+				<div class="todou_content">
 					<div class="section">
 						<ul>
 							<li>Holder</li>
@@ -517,12 +746,13 @@
 							<li>
 								<div>
 									<span class="icon">■店舗情報</span>
-									<p>"四国４県にショールームあり/全色サンプル/壁紙全サンプル/サンプルポット全色購入可能"</p>
+									<p>四国４県にショールームあり/全色サンプル/壁紙全サンプル/サンプルポット全色購入可能</p>
 								</div>
 							</li>
 						</ul>
-
+				</div>
 				<div class="todou_huken"><h3>福岡県</h3></div>
+				<div class="todou_content">
 					<div class="section">
 						<ul>
 							<li>Holder</li>
@@ -541,7 +771,9 @@
 								</div>
 							</li>
 						</ul>
+				</div>
 				<div class="todou_huken"><h3>熊本県</h3></div>
+				<div class="todou_content">
 					<div class="section">
 						<ul>
 							<li  class="section_1">Holder</li>
@@ -554,6 +786,7 @@
 							<li><span class="train">注文住宅・雑貨販売</span></li>
 							<li>〒862-0926 熊本県熊本市保田窪2丁目10-5</li>
 						</ul>
+				</div>
 					</div>
 			</div>
 		</div>

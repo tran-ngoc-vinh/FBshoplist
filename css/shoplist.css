@@ -11,28 +11,28 @@
    font-family: sans-serif ;
 }
 
-#shoplist ul {
-	margin-bottom: 20px;
-}
-
-#shoplist ul li:first-child {
-	font-size: 16px;
+#shoplist ul li {
 	margin-bottom:5px;
 }
-
+#shoplist .todou_content{
+	margin-bottom: 20px;
+}
 #shoplist .section {
 	display: inline;
 }
 #shoplist .section ul li{
 	display: inline;
-	border: 1px solid #000;
     padding: 3px;
-	background-color: #000;
+	background-color: #333333;
 	color:#ffffff;
 	text-align: center;
 }
 #shoplist .section ul .section_1{
 	background-color: #427e83;
+}
+#shoplist ul li h4{
+	margin-top: 5px;
+	
 }
 #shoplist ul li h4 a{
 	color: #000;
