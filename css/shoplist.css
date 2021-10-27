@@ -15,7 +15,7 @@
 	margin-bottom:5px;
 }
 #shoplist .todou_content{
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
 #shoplist .section {
 	display: inline;
@@ -32,12 +32,14 @@
 }
 #shoplist ul li h4{
 	margin-top: 5px;
-	
+	font-size: 16px;
 }
 #shoplist ul li h4 a{
 	color: #000;
+	
 	
 }
 #shoplist ul li h4 a:hover{
 	color: #60aa91;
 }
+
