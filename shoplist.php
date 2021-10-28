@@ -74,7 +74,7 @@
 						<ul>
 							<li><h4><a href="https://futaba-toryo.co.jp/" target="_blank" rel="noopener noreferrer">株式会社フタバ</a></h4></li>
 							<li><span style="font-size:12px">塗料販売店</span></li>
-							<li style="font-size:12px">〒078-8344 北海道旭川市東光４条2丁目1番25号</li>
+							<li style="font-size:12px">〒078-8344 北海道旭川市東光４条２丁目１番２５号</li>
 						</ul>
 				</div>
 				<div class="todou_huken"><h3>青森県</h3></div>
@@ -107,7 +107,7 @@
 						<ul>
 							<li><h4><a href="https://instagram.com/wall_and_d?utm_medium=copy_link" target="_blank" rel="noopener noreferrer">Wall&amp;D</a></h4></li>
 							<li><span style="font-size:12px">インテリアコーディネート</span></li>
-							<li style="font-size:12px">〒010-0011 秋田県秋田市南通亀の町４－１５ YAMAKIU MINAMI SOUKO 1F</li>
+							<li style="font-size:12px">〒010-0011 秋田県秋田市南通亀の町４－１５ YAMAKIU MINAMI SOUKO １F</li>
 						</ul>
 				</div>
 				<div class="todou_huken"><h3>福島県</h3></div>
@@ -133,7 +133,7 @@
 						<ul>
 							<li><h4><a href="http://www.tsujitake.co.jp/" target="_blank" rel="noopener noreferrer">辻武塗料株式会社</a></h4></li>
 							<li><span style="font-size:12px">塗料販売店</span></li>
-							<li style="font-size:12px">〒311-4165 茨城県水戸市木葉下町富士山292-42</li>
+							<li style="font-size:12px">〒311-4165 茨城県水戸市木葉下町富士山２９２－４２</li>
 						</ul>
 				</div>
 				<div class="todou_huken"><h3>栃木県</h3></div>
@@ -146,7 +146,7 @@
 						<ul>
 							<li><h4>株式会社エムズ</h4></li>
 							<li><span style="font-size:12px">工務店</span></li>
-							<li style="font-size:12px">〒321-0971 栃木県宇都宮市中央2-1-5 101</li>
+							<li style="font-size:12px">〒321-0971 栃木県宇都宮市中央２－１－５ １０１</li>
 						</ul>
 				</div>	
 				<div class="todou_huken"><h3>群馬県</h3></div>
@@ -171,7 +171,7 @@
 						<ul>
 							<li><h4><a href="https://www.meisterhouse.co.jp/" target="_blank" rel="noopener noreferrer">マイスターハウス株式会社</a></h4></li>
 							<li><span style="font-size:12px">注文住宅</span></li>
-							<li style="font-size:12px">〒370-0851 群馬県高崎市上中居長337-2</li>
+							<li style="font-size:12px">〒370-0851 群馬県高崎市上中居長３３７－２</li>
 						</ul>
 				</div>
 				<div class="todou_huken"><h3>埼玉県</h3></div>
@@ -184,7 +184,7 @@
 						<ul>
 							<li><h4><a href="https://www.okuta.com/" target="_blank" rel="noopener noreferrer">株式会社オクタ</a></h4></li>
 							<li><span style="font-size:12px">注文住宅</span></li>
-							<li style="font-size:12px">〒330-0802 埼玉県さいたま市大宮区宮町3丁目25</li>
+							<li style="font-size:12px">〒330-0802 埼玉県さいたま市大宮区宮町３丁目２５</li>
 						</ul>
 				</div>
 				<div class="todou_huken"><h3>千葉県</h3></div>
@@ -210,7 +210,7 @@
 						<ul>
 							<li><h4>株式会社カフーツ</h4></li>
 							<li><span style="font-size:12px">インテリアショップ</span></li>
-							<li style="font-size:12px">〒158-0094 東京都世田谷区玉川3-12-11 B1F</li>
+							<li style="font-size:12px">〒158-0094 東京都世田谷区玉川３－１２－１１ B１F</li>
 						</ul>
 				</div>
 				<div class="todou_content">
@@ -234,7 +234,7 @@
 						<ul>
 							<li><h4><a href="https://www.cotsworld.com/" target="_blank" rel="noopener noreferrer">株式会社コッツワールド</a></h4></li>
 							<li><span style="font-size:12px">注文住宅</span></li>
-							<li style="font-size:12px">〒154-0001 東京都世田谷区池尻2-7-10 水内ﾋﾞﾙ</li>
+							<li style="font-size:12px">〒154-0001 東京都世田谷区池尻２－７－１０ 水内ﾋﾞﾙ</li>
 						</ul>
 					</div>
 					<div class="todou_content">
@@ -246,7 +246,7 @@
 						<ul>
 							<li><h4><a href="http://www.theatres-remodeling.co.jp/" target="_blank" rel="noopener noreferrer">東京テアトルリモデリング株式会社</a></h4></li>
 							<li><span style="font-size:12px">設計・施工</span></li>
-							<li style="font-size:12px">〒160-0022 東京都新宿区新宿1-1-8御苑ﾃｱﾄﾙﾋﾞﾙ2F</li>
+							<li style="font-size:12px">〒160-0022 東京都新宿区新宿１－１－８御苑ﾃｱﾄﾙﾋﾞﾙ２F</li>
 						</ul>
 					</div>
 					<div class="todou_content">
@@ -258,7 +258,7 @@
 						<ul>
 							<li><h4><a href="https://www.euro-j.com/" target="_blank" rel="noopener noreferrer">株式会社ユーロＪスペース</a></h4></li>
 							<li><span style="font-size:12px">注文住宅</span></li>
-							<li style="font-size:12px">〒150-0012 東京都世田谷区奥沢5-7-10  1F</li>
+							<li style="font-size:12px">〒150-0012 東京都世田谷区奥沢５－７－１０  １F</li>
 						</ul>
 					</div>
 					<div class="todou_content">
@@ -270,7 +270,7 @@
 						<ul>
 							<li><h4><a href="https://maitland-smith.jp/" target="_blank" rel="noopener noreferrer">西村貿易株式会社</a></h4></li>
 							<li><span style="font-size:12px">インテリアショップ</span></li>
-							<li style="font-size:12px">〒108-0071 東京都港区白金台3-2-10白金台ﾋﾞﾙ1F</li>
+							<li style="font-size:12px">〒108-0071 東京都港区白金台３－２－１０白金台ﾋﾞﾙ１F</li>
 						</ul>
 					</div>
 					<div class="todou_content">
@@ -282,7 +282,7 @@
 						<ul>
 							<li><h4><a href="http://terrace-inc.co.jp/" target="_blank" rel="noopener noreferrer">有限会社テラス</a></h4></li>
 							<li><span style="font-size:12px">家具ショップ</span></li>
-							<li style="font-size:12px">〒107-0062 東京都港区青山6-1-6 ﾊﾟﾚｽ青山303号室</li>
+							<li style="font-size:12px">〒107-0062 東京都港区青山６－１－６ ﾊﾟﾚｽ青山３０３号室</li>
 						</ul>
 					</div>
 				<div class="todou_huken"><h3>神奈川県</h3></div>
@@ -332,7 +332,7 @@
 						<ul>
 							<li><h4><a href="https://www.yonemoku.co.jp/" target="_blank" rel="noopener noreferrer">黒崎交商有限会社</a></h4></li>
 							<li><span style="font-size:12px">設計</span></li>
-							<li style="font-size:12px">〒947-0101 新潟県小千谷市片貝町船橋2387-1</li>
+							<li style="font-size:12px">〒947-0101 新潟県小千谷市片貝町船橋２３８７－１</li>
 						</ul>
 				</div>
 				<div class="todou_huken"><h3>富山県</h3></div>
@@ -345,7 +345,7 @@
 						<ul>
 							<li><h4><a href="https://www.yonemoku.co.jp/" target="_blank" rel="noopener noreferrer">米田木材株式会社</a></h4></li>
 							<li><span style="font-size:12px">注文住宅</span></li>
-							<li style="font-size:12px">〒934-0003 富山県射水市庄川本町16-3</li>
+							<li style="font-size:12px">〒934-0003 富山県射水市庄川本町１６－３</li>
 						</ul>
 				</div>
 				<div class="todou_content">
@@ -357,7 +357,7 @@
 						<ul>
 							<li><h4><a href="https://www.hipsquare.org/" target="_blank" rel="noopener noreferrer">有限会社オリス</a></h4></li>
 							<li><span style="font-size:12px">設計・施工・インテリアデザイン</span></li>
-							<li style="font-size:12px">〒930-0992 富山県富山市新生町9-2 ORIS</li>
+							<li style="font-size:12px">〒930-0992 富山県富山市新生町９－２ ORIS</li>
 						</ul>
 					</div>
 					<div class="todou_content">
@@ -369,7 +369,7 @@
 						<ul>
 							<li><h4><a href="https://www.y-housing.com/" target="_blank" rel="noopener noreferrer">株式会社Y,HOUSING</a></h4></li>
 							<li><span style="font-size:12px">注文住宅</span></li>
-							<li style="font-size:12px">〒930-0161 富山県富山市東老田665</li>
+							<li style="font-size:12px">〒930-0161 富山県富山市東老田６６５</li>
 						</ul>
 				</div>
 				<div class="todou_huken"><h3>石川県</h3></div>
@@ -401,7 +401,7 @@
 						<ul>
 							<li><h4>合同会社NO NAME</h4></li>
 							<li><span style="font-size:12px">設計・施工</span></li>
-							<li style="font-size:12px">〒400-0031 山梨県甲府市丸の内1-8-9</li>
+							<li style="font-size:12px">〒400-0031 山梨県甲府市丸の内１－８－９</li>
 						</ul>
 				</div>
 				<div class="todou_huken"><h3>長野県</h3></div>
@@ -426,7 +426,7 @@
 						<ul>
 							<li><h4><a href="https://sunagadesign.com/" target="_blank" rel="noopener noreferrer">SUNAGA DESIGN</a></h4></li>
 							<li><span style="font-size:12px">設計</span></li>
-							<li style="font-size:12px">〒389-0111 長野県北佐久郡軽井沢町長倉957-63</li>
+							<li style="font-size:12px">〒389-0111 長野県北佐久郡軽井沢町長倉９５７－６３</li>
 						</ul>
 				</div>
 				<div class="todou_huken"><h3>静岡県</h3></div>
@@ -464,7 +464,7 @@
 						<ul>
 							<li><h4><a href="https://yuukistyle.com/" target="_blank" rel="noopener noreferrer">株式会社友紀建築工房</a></h4></li>
 							<li><span style="font-size:12px">注文住宅</span></li>
-							<li style="font-size:12px">〒444-0815 愛知県岡崎市緑丘2丁目13</li>
+							<li style="font-size:12px">〒444-0815 愛知県岡崎市緑丘２丁目１３</li>
 						</ul>
 				</div>
 				<div class="todou_content">
@@ -488,7 +488,7 @@
 						<ul>
 							<li><h4><a href="https://heim-i.co.jp/" target="_blank" rel="noopener noreferrer">株式会社ハイム</a></h4></li>
 							<li><span style="font-size:12px">壁紙卸・設計施工</span></li>
-							<li style="font-size:12px">〒466-0835 愛知県名古屋市昭和区南山町20番4</li>
+							<li style="font-size:12px">〒466-0835 愛知県名古屋市昭和区南山町２０番４</li>
 						</ul>
 				</div>
 				<div class="todou_content">
@@ -500,7 +500,7 @@
 						<ul>
 							<li><h4><a href="https://www.nazunadesign.com/" target="_blank" rel="noopener noreferrer">株式会社ナズナデザインオフィス 一級建築士事務所</a></h4></li>
 							<li><span style="font-size:12px">設計・施工</span></li>
-							<li style="font-size:12px">〒472-0015 愛知県知立市谷田町本林1-11-5-501</li>
+							<li style="font-size:12px">〒472-0015 愛知県知立市谷田町本林１－１１－５－５０１</li>
 						</ul>
 				</div>
 				<div class="todou_content">
@@ -512,7 +512,7 @@
 						<ul>
 							<li><h4><a href="https://instagram.com/threecons.takuma?utm_medium=copy_link" target="_blank" rel="noopener noreferrer">スリーコンズ</a></h4></li>
 							<li><span style="font-size:12px">施工</span></li>
-							<li style="font-size:12px">〒458-0845 愛知県名古屋市緑区鳴海町赤塚146-1</li>
+							<li style="font-size:12px">〒458-0845 愛知県名古屋市緑区鳴海町赤塚１４６－１</li>
 						</ul>
 				</div>
 				<div class="todou_content">
@@ -524,7 +524,7 @@
 						<ul>
 							<li><h4><a href="https://www.ishihara-group.co.jp/" target="_blank" rel="noopener noreferrer">イシハラ株式会社</a></h4></li>
 							<li><span style="font-size:12px">設計・施工</span></li>
-							<li style="font-size:12px">〒440-0083 愛知県豊橋市下地町字柳目28番地</li>
+							<li style="font-size:12px">〒440-0083 愛知県豊橋市下地町字柳目２８番地</li>
 						</ul>
 				</div>
 				<div class="todou_huken"><h3>三重県</h3></div>
@@ -550,7 +550,7 @@
 						<ul>
 							<li><h4><a href="https://curasu-effe.jp/" target="_blank" rel="noopener noreferrer">株式会社ウェザーリポート（エッフェ）</a></h4></li>
 							<li><span style="font-size:12px">インテリアショップ</span></li>
-							<li style="font-size:12px">〒524-0012 滋賀県守山市播磨田町3075</li>
+							<li style="font-size:12px">〒524-0012 滋賀県守山市播磨田町３０７５</li>
 						</ul>
 				</div>
 				<div class="todou_huken"><h3>兵庫県</h3></div>
@@ -563,7 +563,7 @@
 						<ul>
 							<li><h4><a href="https://www.morien.com/" target="_blank" rel="noopener noreferrer">株式会社モリエン</a></h4></li>
 							<li><span style="font-size:12px">塗料販売店</span></li>
-							<li style="font-size:12px">〒652-0032 兵庫県西宮市桶之池町1-4-1-102</li>
+							<li style="font-size:12px">〒652-0032 兵庫県西宮市桶之池町１－４－１－１０２</li>
 							<li>
 								<div>
 									<span style="font-size:12px">■店舗情報</span>
@@ -582,7 +582,7 @@
 						<ul>
 							<li><h4><a href="https://www.sanin-colours.jp/" target="_blank" rel="noopener noreferrer">山陰カラーズ</a></h4></li>
 							<li><span style="font-size:12px">施工店</span></li>
-							<li style="font-size:12px">〒689-3403 島根県米子市掟江町西原 1208-4</li>
+							<li style="font-size:12px">〒689-3403 島根県米子市掟江町西原 １２０８－４</li>
 						</ul>
 				</div>
 				<div class="todou_huken"><h3>岡山県</h3></div>
@@ -595,7 +595,7 @@
 						<ul>
 							<li><h4><a href="https://www.ishihara-group.co.jp/" target="_blank" rel="noopener noreferrer">株式会社ライフラボ</a></h4></li>
 							
-							<li style="font-size:12px">〒700-0903 岡山県岡山市北区幸町8-13８－１３大西ビル２Ｆ</li>
+							<li style="font-size:12px">〒700-0903 岡山県岡山市北区幸町８－１３８－１３大西ビル２Ｆ</li>
 						</ul>
 				</div>
 				<div class="todou_content">
@@ -607,7 +607,7 @@
 						<ul>
 							<li><h4><a href="https://cosmic-g.jp/" target="_blank" rel="noopener noreferrer">株式会社コスミック・ガーデン</a></h4></li>
 							<li><span style="font-size:12px">注文住宅</span></li>
-							<li style="font-size:12px">〒700-0975 岡山県岡山市北区今1丁目12-25  1F</li>
+							<li style="font-size:12px">〒700-0975 岡山県岡山市北区今１丁目１２－２５  １F</li>
 						</ul>
 				</div>
 				<div class="todou_content">
@@ -619,7 +619,7 @@
 						<ul>
 							<li><h4><a href="https://www.ishihara-group.co.jp/" target="_blank" rel="noopener noreferrer">株式会社ゼスト倉敷オフィス</a></h4></li>
 							<li><span style="font-size:12px">注文住宅</span></li>
-							<li style="font-size:12px">〒710-0003 岡山県倉敷市平田329-2</li>
+							<li style="font-size:12px">〒710-0003 岡山県倉敷市平田３２９－２</li>
 						</ul>
 				</div>
 				<div class="todou_huken"><h3>広島県</h3></div>
@@ -632,7 +632,7 @@
 						<ul>
 							<li><h4><a href="https://wonderwall-inc.co.jp/" target="_blank" rel="noopener noreferrer">株式会社ワンダーウォール</a></h4></li>
 							<li><span style="font-size:12px">塗料販売店</span></li>
-							<li style="font-size:12px">〒720-0044 広島県福山市笠岡町2-24</li>
+							<li style="font-size:12px">〒720-0044 広島県福山市笠岡町２－２４</li>
 						</ul>
 				</div>
 				<div class="todou_huken"><h3>山口県</h3></div>
@@ -658,7 +658,7 @@
 						<ul>
 							<li><h4><a href="http://morikumacorp.com/" target="_blank" rel="noopener noreferrer">株式会社森熊</a></h4></li>
 							<li><span style="font-size:12px">壁紙・塗料卸</span></li>
-							<li style="font-size:12px">〒791-8015 愛媛県松山市中央2-42-1</li>
+							<li style="font-size:12px">〒791-8015 愛媛県松山市中央２－４２－１</li>
 							<li>
 								<div>
 									<span style="font-size:12px">■店舗情報</span>
@@ -696,7 +696,7 @@
 						<ul>
 							<li><h4><a href="https://www.zesthouse.com/" target="_blank" rel="noopener noreferrer">株式会社ゼスト熊本本社</a></h4></li>
 							<li><span style="font-size:12px">注文住宅・雑貨販売</span></li>
-							<li style="font-size:12px">〒862-0926 熊本県熊本市保田窪2丁目10-5</li>
+							<li style="font-size:12px">〒862-0926 熊本県熊本市保田窪２丁目１０－５</li>
 						</ul>
 				</div>
 					</div>
