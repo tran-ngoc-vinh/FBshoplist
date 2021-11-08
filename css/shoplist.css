@@ -30,6 +30,9 @@
 #shoplist .section ul .section_1{
 	background-color: #427e83;
 }
+#shoplist .section ul .section_2{
+	background-color: #333333;
+}
 #shoplist ul li h4{
 	margin-top: 5px;
 	font-size: 16px;
